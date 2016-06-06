@@ -74,6 +74,35 @@
 | --------      |  --------   |  --------     |  --------   | 
 | 头部	        |header    	  |外围容器       |	 wrapper    |
 |尾部	        |footer       |容器	          |container    |
+|内容	        |content      |页面主体       |	main        |
+|导航	        |nav	      |栏目/列        |	column      |
+|顶导航	        |topnav       |	菜单          |	menu        |
+|子导航	        |subnav       |	侧栏          |	sidebar     |
+|子菜单	        |submenu      |	模块          |	module      |
+|标题	        |title        |	标签页        |	tab         |
+|提示	        |tips         |	状态          |	status      |
+|当前	        |current	  |按钮           |	btn         |
+|摘要	        |summary	  |滚动           |	scroll      |
+|下拉	        |dropdown	  |搜索           |	search      |
+|标志	        |logo         |广告           |banner       |
+|登陆	        |login        |登录条         |login-bar    |
+|注册|	reg|加入	|join|面包屑	|crumbs|
+|分页	|pagination|状态	|status|
+|按钮	|btn|弹出层	|pop|
+|设置	|set|添加	|add|
+|滚动	|scroll|删除	|del|
+|操作	|op|密码	|pwd|
+|导入	|inc|标签页	|tab|
+|文章列表	|list|提示信息	|msg|
+|小技巧	|tips|图标	|icon|
+|注释	|note|指南	|guide|
+|服务	|service|热点	|hot|
+|新闻	|news|下载	|download|
+|投票	|vote|合作伙伴	|partner|
+|版权	|copy-right|友情链接	|link|
+|提示信息	|info|成功	|success|
+|报错|	error|警告|	warning|
+
 
 
 > * 建议命名时尽量规避"ad"、"ads"、""advertisement"等含广告、推广意思的词，减少因去广告插件或国内山寨浏览器“优化”导致的问题。
