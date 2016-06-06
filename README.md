@@ -100,6 +100,10 @@
 |新闻	|news|下载	|download|
 |投票	|vote|合作伙伴	|partner|
 |版权	|copy-right|友情链接	|link|
+
+### 状态类CSS命名
+| 中文名        | 建议class   | 中文名        | 建议class   | 
+| --------      |  --------   |  --------     |  --------   | 
 |提示信息	|info|成功	|success|
 |报错|	error|警告|	warning|
 
